@@ -1,0 +1,29 @@
+{
+ "F1": {
+  "flag": true,
+  "evidence": [
+   "구는 올해 안에 공원 두 곳에 그늘막을 설치합니다."
+  ],
+  "source_quote": [
+   "구는 올해 안에 공원 두 곳에 그늘막을 설치할 계획이다.",
+   "설치 시기가 예산 심의 결과에 따라 달라질 수 있다고 밝혔다."
+  ],
+  "reason": "원문의 계획·조건(예산 심의에 따라 설치 시기가 달라질 수 있음)이 대본에서 빠지고 '설치합니다'로 확정 서술됨",
+  "confidence": "high"
+ },
+ "F2": {
+  "flag": false,
+  "evidence": [],
+  "source_quote": [],
+  "reason": "",
+  "confidence": "high"
+ },
+ "F3": {
+  "flag": false,
+  "evidence": [],
+  "source_quote": [],
+  "reason": "",
+  "confidence": "high",
+  "fatal_candidate": false
+ }
+}

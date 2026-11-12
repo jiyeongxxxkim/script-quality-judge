@@ -1,0 +1,26 @@
+{
+ "F1": {
+  "flag": false,
+  "evidence": [],
+  "source_quote": [],
+  "reason": "",
+  "confidence": "high"
+ },
+ "F2": {
+  "flag": false,
+  "evidence": [],
+  "source_quote": [],
+  "reason": "",
+  "confidence": "high"
+ },
+ "F3": {
+  "flag": true,
+  "evidence": [
+   "써본 사람들은 이틀은 간다고 해요."
+  ],
+  "source_quote": [],
+  "reason": "원문에 없는 배터리 지속시간(이틀) 수치와 사용 후기가 추가됨",
+  "confidence": "high",
+  "fatal_candidate": true
+ }
+}

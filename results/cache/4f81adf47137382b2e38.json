@@ -1,0 +1,40 @@
+{
+ "R1": {
+  "flag": false,
+  "evidence": [],
+  "reason": "",
+  "confidence": "high",
+  "fatal_candidate": false
+ },
+ "R2": {
+  "flag": false,
+  "evidence": [],
+  "reason": "",
+  "confidence": "high"
+ },
+ "N1": {
+  "flag": true,
+  "evidence": [
+   "자막: 지금 보시는 화면은 신관 로비입니다."
+  ],
+  "reason": "자막 표기가 포함된 문장으로, 화면 지시·자막을 옮긴 문장이 나레이션에 섞임",
+  "confidence": "high"
+ },
+ "N2": {
+  "flag": false,
+  "evidence": [],
+  "reason": "",
+  "confidence": "high"
+ },
+ "N3": {
+  "flag": false,
+  "evidence": [],
+  "reason": "",
+  "confidence": "high"
+ },
+ "H1": {
+  "present": false,
+  "evidence": [],
+  "reason": ""
+ }
+}

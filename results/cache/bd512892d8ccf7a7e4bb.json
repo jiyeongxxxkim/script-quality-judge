@@ -1,0 +1,45 @@
+{
+ "R1": {
+  "flag": false,
+  "evidence": [],
+  "reason": "",
+  "confidence": "high",
+  "fatal_candidate": false
+ },
+ "R2": {
+  "flag": false,
+  "evidence": [],
+  "reason": "",
+  "confidence": "high"
+ },
+ "N1": {
+  "flag": false,
+  "evidence": [],
+  "reason": "",
+  "confidence": "high"
+ },
+ "N2": {
+  "flag": true,
+  "evidence": [
+   "자세한 내용은 한전 누리집에서 볼 수 있다고 합니다.",
+   "이 사진 정리 앱은 폴더를 직접 만들 필요가 없어서 편하다는 후기가 많아요.",
+   "출시 첫 달에만 내려받은 사람이 12만 명을 넘었다고 합니다.",
+   "다음 달부터 가정용 전기요금이 킬로와트시당 5원 오른다는 소식이 전해졌어요."
+  ],
+  "reason": "전기요금 인상 주제에서 갑작스럽게 사진 정리 앱 소개로 전환되고, 이후 이전 내용이 반복되어 흐름이 단절됨",
+  "confidence": "high"
+ },
+ "N3": {
+  "flag": false,
+  "evidence": [],
+  "reason": "",
+  "confidence": "high"
+ },
+ "H1": {
+  "present": true,
+  "evidence": [
+   "다음 달부터 가정용 전기요금이 킬로와트시당 5원 오른다는 소식이 전해졌어요."
+  ],
+  "reason": "첫 문장에서 구체적 수치를 제시해 주목도를 높임"
+ }
+}

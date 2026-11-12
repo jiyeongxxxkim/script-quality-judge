@@ -1,0 +1,42 @@
+{
+ "R1": {
+  "flag": false,
+  "evidence": [],
+  "reason": "",
+  "confidence": "high",
+  "fatal_candidate": false
+ },
+ "R2": {
+  "flag": false,
+  "evidence": [],
+  "reason": "",
+  "confidence": "high"
+ },
+ "N1": {
+  "flag": true,
+  "evidence": [
+   "이거 진짜 별로다."
+  ],
+  "reason": "영상 속 반응에 가까운 감탄/반응형 문장이 나레이션에 섞임",
+  "confidence": "high"
+ },
+ "N2": {
+  "flag": false,
+  "evidence": [],
+  "reason": "",
+  "confidence": "high"
+ },
+ "N3": {
+  "flag": false,
+  "evidence": [],
+  "reason": "",
+  "confidence": "high"
+ },
+ "H1": {
+  "present": true,
+  "evidence": [
+   "다음 달부터 가정용 전기요금이 킬로와트시당 5원 오른다는 소식이 전해졌어요."
+  ],
+  "reason": "첫 문장에 구체적 수치가 제시됨"
+ }
+}

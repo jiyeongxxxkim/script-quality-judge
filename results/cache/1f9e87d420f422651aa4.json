@@ -1,0 +1,40 @@
+{
+ "R1": {
+  "flag": false,
+  "evidence": [],
+  "reason": "",
+  "confidence": "high",
+  "fatal_candidate": false
+ },
+ "R2": {
+  "flag": false,
+  "evidence": [],
+  "reason": "",
+  "confidence": "high"
+ },
+ "N1": {
+  "flag": false,
+  "evidence": [],
+  "reason": "",
+  "confidence": "high"
+ },
+ "N2": {
+  "flag": false,
+  "evidence": [],
+  "reason": "",
+  "confidence": "high"
+ },
+ "N3": {
+  "flag": false,
+  "evidence": [],
+  "reason": "",
+  "confidence": "high"
+ },
+ "H1": {
+  "present": true,
+  "evidence": [
+   "새 모델은 무게가 320그램이고, 가격은 120,000원이에요."
+  ],
+  "reason": "첫 문장에서 수치를 제시함"
+ }
+}

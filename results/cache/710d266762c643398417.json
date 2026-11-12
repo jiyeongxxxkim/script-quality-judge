@@ -1,0 +1,40 @@
+{
+ "R1": {
+  "flag": true,
+  "evidence": [
+   "사서 전문가들이 모두 이곳을 추천합니다."
+  ],
+  "reason": "전문가 추천을 출처 없이 사실로 단정함",
+  "confidence": "high",
+  "fatal_candidate": false
+ },
+ "R2": {
+  "flag": false,
+  "evidence": [],
+  "reason": "",
+  "confidence": "high"
+ },
+ "N1": {
+  "flag": false,
+  "evidence": [],
+  "reason": "",
+  "confidence": "high"
+ },
+ "N2": {
+  "flag": false,
+  "evidence": [],
+  "reason": "",
+  "confidence": "high"
+ },
+ "N3": {
+  "flag": false,
+  "evidence": [],
+  "reason": "",
+  "confidence": "high"
+ },
+ "H1": {
+  "present": false,
+  "evidence": [],
+  "reason": ""
+ }
+}

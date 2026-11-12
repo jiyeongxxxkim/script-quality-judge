@@ -1,0 +1,40 @@
+{
+ "R1": {
+  "flag": false,
+  "evidence": [],
+  "reason": "",
+  "confidence": "high",
+  "fatal_candidate": false
+ },
+ "R2": {
+  "flag": false,
+  "evidence": [],
+  "reason": "",
+  "confidence": "high"
+ },
+ "N1": {
+  "flag": true,
+  "evidence": [
+   "여기 화면 보시면 열람석이 보이시죠?"
+  ],
+  "reason": "화면을 가리키는 문장이 나레이션에 섞임",
+  "confidence": "high"
+ },
+ "N2": {
+  "flag": false,
+  "evidence": [],
+  "reason": "",
+  "confidence": "high"
+ },
+ "N3": {
+  "flag": false,
+  "evidence": [],
+  "reason": "",
+  "confidence": "high"
+ },
+ "H1": {
+  "present": false,
+  "evidence": [],
+  "reason": ""
+ }
+}

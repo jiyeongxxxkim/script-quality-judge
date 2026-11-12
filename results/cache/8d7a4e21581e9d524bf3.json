@@ -1,0 +1,24 @@
+{
+ "F1": {
+  "flag": false,
+  "evidence": [],
+  "source_quote": [],
+  "reason": "",
+  "confidence": "high"
+ },
+ "F2": {
+  "flag": false,
+  "evidence": [],
+  "source_quote": [],
+  "reason": "",
+  "confidence": "high"
+ },
+ "F3": {
+  "flag": false,
+  "evidence": [],
+  "source_quote": [],
+  "reason": "",
+  "confidence": "high",
+  "fatal_candidate": false
+ }
+}

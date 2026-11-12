@@ -1,0 +1,28 @@
+{
+ "F1": {
+  "flag": false,
+  "evidence": [],
+  "source_quote": [],
+  "reason": "",
+  "confidence": "high"
+ },
+ "F2": {
+  "flag": true,
+  "evidence": [
+   "그늘막은 폭염 피해를 줄여 줍니다."
+  ],
+  "source_quote": [
+   "한 주민 단체는 그늘막이 폭염 피해를 줄일 것이라고 말했다."
+  ],
+  "reason": "주민 단체의 전망이 출처 없이 일반적 사실처럼 서술됨",
+  "confidence": "high"
+ },
+ "F3": {
+  "flag": false,
+  "evidence": [],
+  "source_quote": [],
+  "reason": "",
+  "confidence": "high",
+  "fatal_candidate": false
+ }
+}

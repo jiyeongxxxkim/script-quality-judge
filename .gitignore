@@ -1,0 +1,16 @@
+# 비밀값: 절대 커밋 금지
+.env
+.env.*
+!.env.example
+*.key
+secrets/
+
+# 제3자 기사 원문 등 공개하면 안 되는 로컬 데이터
+data/private/
+
+__pycache__/
+.DS_Store
+
+# 라벨링한 17개(기사·영상 대본) 실행 결과 중 원문 인용 가능 부분은 공개하지 않는다
+results/private/
+results/private_cache/

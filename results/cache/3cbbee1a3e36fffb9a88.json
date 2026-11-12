@@ -1,0 +1,26 @@
+{
+ "F1": {
+  "flag": false,
+  "evidence": [],
+  "source_quote": [],
+  "reason": "",
+  "confidence": "high"
+ },
+ "F2": {
+  "flag": false,
+  "evidence": [],
+  "source_quote": [],
+  "reason": "",
+  "confidence": "high"
+ },
+ "F3": {
+  "flag": true,
+  "evidence": [
+   "매일 마시면 콜레스테롤이 내려갑니다."
+  ],
+  "source_quote": [],
+  "reason": "원문에 없는 건강 효과가 사실처럼 추가됨",
+  "confidence": "high",
+  "fatal_candidate": true
+ }
+}

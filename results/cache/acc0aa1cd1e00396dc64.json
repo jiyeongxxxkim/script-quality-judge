@@ -1,0 +1,28 @@
+{
+ "F1": {
+  "flag": false,
+  "evidence": [],
+  "source_quote": [],
+  "reason": "",
+  "confidence": "high"
+ },
+ "F2": {
+  "flag": true,
+  "evidence": [
+   "이전은 시민 편의를 높입니다."
+  ],
+  "source_quote": [
+   "한 시의원은 이전이 시민 편의를 높일 것이라고 주장했다."
+  ],
+  "reason": "원문에서 시의원의 주장으로 제시된 내용이 대본에서 출처 없이 사실로 단정됨",
+  "confidence": "high"
+ },
+ "F3": {
+  "flag": false,
+  "evidence": [],
+  "source_quote": [],
+  "reason": "",
+  "confidence": "high",
+  "fatal_candidate": false
+ }
+}

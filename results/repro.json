@@ -1,0 +1,2033 @@
+{
+ "S01": [
+  {
+   "run": 0,
+   "verdict": "통과(충실성 미평가)",
+   "items": {
+    "R1": [
+     "pass",
+     null
+    ],
+    "R2": [
+     "pass",
+     null
+    ],
+    "N1": [
+     "pass",
+     null
+    ],
+    "N2": [
+     "pass",
+     null
+    ],
+    "N3": [
+     "pass",
+     null
+    ]
+   },
+   "new_tokens": 0
+  },
+  {
+   "run": 1,
+   "verdict": "통과(충실성 미평가)",
+   "items": {
+    "R1": [
+     "pass",
+     null
+    ],
+    "R2": [
+     "pass",
+     null
+    ],
+    "N1": [
+     "pass",
+     null
+    ],
+    "N2": [
+     "pass",
+     null
+    ],
+    "N3": [
+     "pass",
+     null
+    ]
+   },
+   "new_tokens": 0
+  },
+  {
+   "run": 2,
+   "verdict": "통과(충실성 미평가)",
+   "items": {
+    "R1": [
+     "pass",
+     null
+    ],
+    "R2": [
+     "pass",
+     null
+    ],
+    "N1": [
+     "pass",
+     null
+    ],
+    "N2": [
+     "pass",
+     null
+    ],
+    "N3": [
+     "pass",
+     null
+    ]
+   },
+   "new_tokens": 0
+  }
+ ],
+ "S02": [
+  {
+   "run": 0,
+   "verdict": "통과(충실성 미평가)",
+   "items": {
+    "R1": [
+     "pass",
+     null
+    ],
+    "R2": [
+     "pass",
+     null
+    ],
+    "N1": [
+     "pass",
+     null
+    ],
+    "N2": [
+     "pass",
+     null
+    ],
+    "N3": [
+     "pass",
+     null
+    ]
+   },
+   "new_tokens": 0
+  },
+  {
+   "run": 1,
+   "verdict": "통과(충실성 미평가)",
+   "items": {
+    "R1": [
+     "pass",
+     null
+    ],
+    "R2": [
+     "pass",
+     null
+    ],
+    "N1": [
+     "pass",
+     null
+    ],
+    "N2": [
+     "pass",
+     null
+    ],
+    "N3": [
+     "pass",
+     null
+    ]
+   },
+   "new_tokens": 0
+  },
+  {
+   "run": 2,
+   "verdict": "통과(충실성 미평가)",
+   "items": {
+    "R1": [
+     "pass",
+     null
+    ],
+    "R2": [
+     "pass",
+     null
+    ],
+    "N1": [
+     "pass",
+     null
+    ],
+    "N2": [
+     "pass",
+     null
+    ],
+    "N3": [
+     "pass",
+     null
+    ]
+   },
+   "new_tokens": 0
+  }
+ ],
+ "S03": [
+  {
+   "run": 0,
+   "verdict": "통과(충실성 미평가)",
+   "items": {
+    "R1": [
+     "pass",
+     null
+    ],
+    "R2": [
+     "pass",
+     null
+    ],
+    "N1": [
+     "pass",
+     null
+    ],
+    "N2": [
+     "pass",
+     null
+    ],
+    "N3": [
+     "pass",
+     null
+    ]
+   },
+   "new_tokens": 0
+  },
+  {
+   "run": 1,
+   "verdict": "통과(충실성 미평가)",
+   "items": {
+    "R1": [
+     "pass",
+     null
+    ],
+    "R2": [
+     "pass",
+     null
+    ],
+    "N1": [
+     "pass",
+     null
+    ],
+    "N2": [
+     "pass",
+     null
+    ],
+    "N3": [
+     "pass",
+     null
+    ]
+   },
+   "new_tokens": 0
+  },
+  {
+   "run": 2,
+   "verdict": "통과(충실성 미평가)",
+   "items": {
+    "R1": [
+     "pass",
+     null
+    ],
+    "R2": [
+     "pass",
+     null
+    ],
+    "N1": [
+     "pass",
+     null
+    ],
+    "N2": [
+     "pass",
+     null
+    ],
+    "N3": [
+     "pass",
+     null
+    ]
+   },
+   "new_tokens": 0
+  }
+ ],
+ "S04": [
+  {
+   "run": 0,
+   "verdict": "실패",
+   "items": {
+    "R1": [
+     "pass",
+     null
+    ],
+    "R2": [
+     "pass",
+     null
+    ],
+    "N1": [
+     "pass",
+     null
+    ],
+    "N2": [
+     "warn",
+     "minor"
+    ],
+    "N3": [
+     "pass",
+     null
+    ]
+   },
+   "new_tokens": 0
+  },
+  {
+   "run": 1,
+   "verdict": "실패",
+   "items": {
+    "R1": [
+     "pass",
+     null
+    ],
+    "R2": [
+     "pass",
+     null
+    ],
+    "N1": [
+     "pass",
+     null
+    ],
+    "N2": [
+     "warn",
+     "minor"
+    ],
+    "N3": [
+     "pass",
+     null
+    ]
+   },
+   "new_tokens": 0
+  },
+  {
+   "run": 2,
+   "verdict": "실패",
+   "items": {
+    "R1": [
+     "pass",
+     null
+    ],
+    "R2": [
+     "pass",
+     null
+    ],
+    "N1": [
+     "pass",
+     null
+    ],
+    "N2": [
+     "warn",
+     "minor"
+    ],
+    "N3": [
+     "pass",
+     null
+    ]
+   },
+   "new_tokens": 0
+  }
+ ],
+ "S05": [
+  {
+   "run": 0,
+   "verdict": "통과(충실성 미평가)",
+   "items": {
+    "R1": [
+     "pass",
+     null
+    ],
+    "R2": [
+     "pass",
+     null
+    ],
+    "N1": [
+     "pass",
+     null
+    ],
+    "N2": [
+     "pass",
+     null
+    ],
+    "N3": [
+     "pass",
+     null
+    ]
+   },
+   "new_tokens": 0
+  },
+  {
+   "run": 1,
+   "verdict": "통과(충실성 미평가)",
+   "items": {
+    "R1": [
+     "pass",
+     null
+    ],
+    "R2": [
+     "pass",
+     null
+    ],
+    "N1": [
+     "pass",
+     null
+    ],
+    "N2": [
+     "pass",
+     null
+    ],
+    "N3": [
+     "pass",
+     null
+    ]
+   },
+   "new_tokens": 0
+  },
+  {
+   "run": 2,
+   "verdict": "통과(충실성 미평가)",
+   "items": {
+    "R1": [
+     "pass",
+     null
+    ],
+    "R2": [
+     "pass",
+     null
+    ],
+    "N1": [
+     "pass",
+     null
+    ],
+    "N2": [
+     "pass",
+     null
+    ],
+    "N3": [
+     "pass",
+     null
+    ]
+   },
+   "new_tokens": 0
+  }
+ ],
+ "S06": [
+  {
+   "run": 0,
+   "verdict": "보류",
+   "items": {
+    "R1": [
+     "pass",
+     null
+    ],
+    "R2": [
+     "pass",
+     null
+    ],
+    "N1": [
+     "pass",
+     null
+    ],
+    "N2": [
+     "pass",
+     null
+    ],
+    "N3": [
+     "pass",
+     null
+    ]
+   },
+   "new_tokens": 0
+  },
+  {
+   "run": 1,
+   "verdict": "보류",
+   "items": {
+    "R1": [
+     "warn",
+     "minor"
+    ],
+    "R2": [
+     "pass",
+     null
+    ],
+    "N1": [
+     "pass",
+     null
+    ],
+    "N2": [
+     "pass",
+     null
+    ],
+    "N3": [
+     "pass",
+     null
+    ]
+   },
+   "new_tokens": 0
+  },
+  {
+   "run": 2,
+   "verdict": "보류",
+   "items": {
+    "R1": [
+     "pass",
+     null
+    ],
+    "R2": [
+     "pass",
+     null
+    ],
+    "N1": [
+     "pass",
+     null
+    ],
+    "N2": [
+     "pass",
+     null
+    ],
+    "N3": [
+     "pass",
+     null
+    ]
+   },
+   "new_tokens": 0
+  }
+ ],
+ "S07": [
+  {
+   "run": 0,
+   "verdict": "통과(충실성 미평가)",
+   "items": {
+    "R1": [
+     "pass",
+     null
+    ],
+    "R2": [
+     "pass",
+     null
+    ],
+    "N1": [
+     "pass",
+     null
+    ],
+    "N2": [
+     "pass",
+     null
+    ],
+    "N3": [
+     "pass",
+     null
+    ]
+   },
+   "new_tokens": 0
+  },
+  {
+   "run": 1,
+   "verdict": "통과(충실성 미평가)",
+   "items": {
+    "R1": [
+     "pass",
+     null
+    ],
+    "R2": [
+     "pass",
+     null
+    ],
+    "N1": [
+     "pass",
+     null
+    ],
+    "N2": [
+     "pass",
+     null
+    ],
+    "N3": [
+     "pass",
+     null
+    ]
+   },
+   "new_tokens": 0
+  },
+  {
+   "run": 2,
+   "verdict": "통과(충실성 미평가)",
+   "items": {
+    "R1": [
+     "pass",
+     null
+    ],
+    "R2": [
+     "pass",
+     null
+    ],
+    "N1": [
+     "pass",
+     null
+    ],
+    "N2": [
+     "pass",
+     null
+    ],
+    "N3": [
+     "pass",
+     null
+    ]
+   },
+   "new_tokens": 0
+  }
+ ],
+ "S08": [
+  {
+   "run": 0,
+   "verdict": "보류",
+   "items": {
+    "R1": [
+     "pass",
+     null
+    ],
+    "R2": [
+     "pass",
+     null
+    ],
+    "N1": [
+     "pass",
+     null
+    ],
+    "N2": [
+     "pass",
+     null
+    ],
+    "N3": [
+     "pass",
+     null
+    ]
+   },
+   "new_tokens": 0
+  },
+  {
+   "run": 1,
+   "verdict": "보류",
+   "items": {
+    "R1": [
+     "pass",
+     null
+    ],
+    "R2": [
+     "pass",
+     null
+    ],
+    "N1": [
+     "pass",
+     null
+    ],
+    "N2": [
+     "pass",
+     null
+    ],
+    "N3": [
+     "pass",
+     null
+    ]
+   },
+   "new_tokens": 0
+  },
+  {
+   "run": 2,
+   "verdict": "보류",
+   "items": {
+    "R1": [
+     "pass",
+     null
+    ],
+    "R2": [
+     "pass",
+     null
+    ],
+    "N1": [
+     "warn",
+     "minor"
+    ],
+    "N2": [
+     "pass",
+     null
+    ],
+    "N3": [
+     "pass",
+     null
+    ]
+   },
+   "new_tokens": 0
+  }
+ ],
+ "S09": [
+  {
+   "run": 0,
+   "verdict": "통과(충실성 미평가)",
+   "items": {
+    "R1": [
+     "pass",
+     null
+    ],
+    "R2": [
+     "pass",
+     null
+    ],
+    "N1": [
+     "pass",
+     null
+    ],
+    "N2": [
+     "pass",
+     null
+    ],
+    "N3": [
+     "pass",
+     null
+    ]
+   },
+   "new_tokens": 0
+  },
+  {
+   "run": 1,
+   "verdict": "통과(충실성 미평가)",
+   "items": {
+    "R1": [
+     "pass",
+     null
+    ],
+    "R2": [
+     "pass",
+     null
+    ],
+    "N1": [
+     "pass",
+     null
+    ],
+    "N2": [
+     "pass",
+     null
+    ],
+    "N3": [
+     "pass",
+     null
+    ]
+   },
+   "new_tokens": 0
+  },
+  {
+   "run": 2,
+   "verdict": "통과(충실성 미평가)",
+   "items": {
+    "R1": [
+     "pass",
+     null
+    ],
+    "R2": [
+     "pass",
+     null
+    ],
+    "N1": [
+     "pass",
+     null
+    ],
+    "N2": [
+     "pass",
+     null
+    ],
+    "N3": [
+     "pass",
+     null
+    ]
+   },
+   "new_tokens": 0
+  }
+ ],
+ "S10": [
+  {
+   "run": 0,
+   "verdict": "통과(충실성 미평가)",
+   "items": {
+    "R1": [
+     "pass",
+     null
+    ],
+    "R2": [
+     "pass",
+     null
+    ],
+    "N1": [
+     "pass",
+     null
+    ],
+    "N2": [
+     "pass",
+     null
+    ],
+    "N3": [
+     "pass",
+     null
+    ]
+   },
+   "new_tokens": 0
+  },
+  {
+   "run": 1,
+   "verdict": "통과(충실성 미평가)",
+   "items": {
+    "R1": [
+     "pass",
+     null
+    ],
+    "R2": [
+     "pass",
+     null
+    ],
+    "N1": [
+     "pass",
+     null
+    ],
+    "N2": [
+     "pass",
+     null
+    ],
+    "N3": [
+     "pass",
+     null
+    ]
+   },
+   "new_tokens": 0
+  },
+  {
+   "run": 2,
+   "verdict": "통과(충실성 미평가)",
+   "items": {
+    "R1": [
+     "pass",
+     null
+    ],
+    "R2": [
+     "pass",
+     null
+    ],
+    "N1": [
+     "pass",
+     null
+    ],
+    "N2": [
+     "pass",
+     null
+    ],
+    "N3": [
+     "pass",
+     null
+    ]
+   },
+   "new_tokens": 0
+  }
+ ],
+ "S11": [
+  {
+   "run": 0,
+   "verdict": "통과(충실성 미평가)",
+   "items": {
+    "R1": [
+     "pass",
+     null
+    ],
+    "R2": [
+     "pass",
+     null
+    ],
+    "N1": [
+     "pass",
+     null
+    ],
+    "N2": [
+     "pass",
+     null
+    ],
+    "N3": [
+     "pass",
+     null
+    ]
+   },
+   "new_tokens": 0
+  },
+  {
+   "run": 1,
+   "verdict": "통과(충실성 미평가)",
+   "items": {
+    "R1": [
+     "pass",
+     null
+    ],
+    "R2": [
+     "pass",
+     null
+    ],
+    "N1": [
+     "pass",
+     null
+    ],
+    "N2": [
+     "pass",
+     null
+    ],
+    "N3": [
+     "pass",
+     null
+    ]
+   },
+   "new_tokens": 0
+  },
+  {
+   "run": 2,
+   "verdict": "통과(충실성 미평가)",
+   "items": {
+    "R1": [
+     "pass",
+     null
+    ],
+    "R2": [
+     "pass",
+     null
+    ],
+    "N1": [
+     "pass",
+     null
+    ],
+    "N2": [
+     "pass",
+     null
+    ],
+    "N3": [
+     "pass",
+     null
+    ]
+   },
+   "new_tokens": 0
+  }
+ ],
+ "S12": [
+  {
+   "run": 0,
+   "verdict": "통과(충실성 미평가)",
+   "items": {
+    "R1": [
+     "pass",
+     null
+    ],
+    "R2": [
+     "pass",
+     null
+    ],
+    "N1": [
+     "pass",
+     null
+    ],
+    "N2": [
+     "pass",
+     null
+    ],
+    "N3": [
+     "pass",
+     null
+    ]
+   },
+   "new_tokens": 0
+  },
+  {
+   "run": 1,
+   "verdict": "통과(충실성 미평가)",
+   "items": {
+    "R1": [
+     "pass",
+     null
+    ],
+    "R2": [
+     "pass",
+     null
+    ],
+    "N1": [
+     "pass",
+     null
+    ],
+    "N2": [
+     "pass",
+     null
+    ],
+    "N3": [
+     "pass",
+     null
+    ]
+   },
+   "new_tokens": 0
+  },
+  {
+   "run": 2,
+   "verdict": "통과(충실성 미평가)",
+   "items": {
+    "R1": [
+     "pass",
+     null
+    ],
+    "R2": [
+     "pass",
+     null
+    ],
+    "N1": [
+     "pass",
+     null
+    ],
+    "N2": [
+     "pass",
+     null
+    ],
+    "N3": [
+     "pass",
+     null
+    ]
+   },
+   "new_tokens": 0
+  }
+ ],
+ "S13": [
+  {
+   "run": 0,
+   "verdict": "실패",
+   "items": {
+    "R1": [
+     "pass",
+     null
+    ],
+    "R2": [
+     "pass",
+     null
+    ],
+    "N1": [
+     "pass",
+     null
+    ],
+    "N2": [
+     "warn",
+     "minor"
+    ],
+    "N3": [
+     "pass",
+     null
+    ]
+   },
+   "new_tokens": 0
+  },
+  {
+   "run": 1,
+   "verdict": "실패",
+   "items": {
+    "R1": [
+     "pass",
+     null
+    ],
+    "R2": [
+     "pass",
+     null
+    ],
+    "N1": [
+     "pass",
+     null
+    ],
+    "N2": [
+     "warn",
+     "minor"
+    ],
+    "N3": [
+     "pass",
+     null
+    ]
+   },
+   "new_tokens": 0
+  },
+  {
+   "run": 2,
+   "verdict": "실패",
+   "items": {
+    "R1": [
+     "pass",
+     null
+    ],
+    "R2": [
+     "pass",
+     null
+    ],
+    "N1": [
+     "pass",
+     null
+    ],
+    "N2": [
+     "warn",
+     "minor"
+    ],
+    "N3": [
+     "pass",
+     null
+    ]
+   },
+   "new_tokens": 0
+  }
+ ],
+ "Q01": [
+  {
+   "run": 0,
+   "verdict": "보류",
+   "items": {
+    "F1": [
+     "warn",
+     "minor"
+    ],
+    "F2": [
+     "warn",
+     "minor"
+    ],
+    "F3": [
+     "pass",
+     null
+    ],
+    "R1": [
+     "pass",
+     null
+    ],
+    "R2": [
+     "pass",
+     null
+    ],
+    "N1": [
+     "pass",
+     null
+    ],
+    "N2": [
+     "pass",
+     null
+    ],
+    "N3": [
+     "pass",
+     null
+    ]
+   },
+   "new_tokens": 0
+  },
+  {
+   "run": 1,
+   "verdict": "보류",
+   "items": {
+    "F1": [
+     "warn",
+     "minor"
+    ],
+    "F2": [
+     "warn",
+     "minor"
+    ],
+    "F3": [
+     "pass",
+     null
+    ],
+    "R1": [
+     "pass",
+     null
+    ],
+    "R2": [
+     "pass",
+     null
+    ],
+    "N1": [
+     "pass",
+     null
+    ],
+    "N2": [
+     "pass",
+     null
+    ],
+    "N3": [
+     "pass",
+     null
+    ]
+   },
+   "new_tokens": 0
+  },
+  {
+   "run": 2,
+   "verdict": "보류",
+   "items": {
+    "F1": [
+     "warn",
+     "minor"
+    ],
+    "F2": [
+     "warn",
+     "minor"
+    ],
+    "F3": [
+     "pass",
+     null
+    ],
+    "R1": [
+     "pass",
+     null
+    ],
+    "R2": [
+     "pass",
+     null
+    ],
+    "N1": [
+     "pass",
+     null
+    ],
+    "N2": [
+     "pass",
+     null
+    ],
+    "N3": [
+     "pass",
+     null
+    ]
+   },
+   "new_tokens": 0
+  }
+ ],
+ "Q02": [
+  {
+   "run": 0,
+   "verdict": "실패",
+   "items": {
+    "F1": [
+     "warn",
+     "minor"
+    ],
+    "F2": [
+     "pass",
+     null
+    ],
+    "F3": [
+     "warn",
+     "fatal"
+    ],
+    "R1": [
+     "warn",
+     "fatal"
+    ],
+    "R2": [
+     "pass",
+     null
+    ],
+    "N1": [
+     "pass",
+     null
+    ],
+    "N2": [
+     "pass",
+     null
+    ],
+    "N3": [
+     "pass",
+     null
+    ]
+   },
+   "new_tokens": 0
+  },
+  {
+   "run": 1,
+   "verdict": "실패",
+   "items": {
+    "F1": [
+     "warn",
+     "minor"
+    ],
+    "F2": [
+     "pass",
+     null
+    ],
+    "F3": [
+     "warn",
+     "fatal"
+    ],
+    "R1": [
+     "warn",
+     "fatal"
+    ],
+    "R2": [
+     "pass",
+     null
+    ],
+    "N1": [
+     "pass",
+     null
+    ],
+    "N2": [
+     "pass",
+     null
+    ],
+    "N3": [
+     "pass",
+     null
+    ]
+   },
+   "new_tokens": 0
+  },
+  {
+   "run": 2,
+   "verdict": "실패",
+   "items": {
+    "F1": [
+     "warn",
+     "minor"
+    ],
+    "F2": [
+     "pass",
+     null
+    ],
+    "F3": [
+     "pass",
+     null
+    ],
+    "R1": [
+     "warn",
+     "fatal"
+    ],
+    "R2": [
+     "pass",
+     null
+    ],
+    "N1": [
+     "pass",
+     null
+    ],
+    "N2": [
+     "pass",
+     null
+    ],
+    "N3": [
+     "pass",
+     null
+    ]
+   },
+   "new_tokens": 0
+  }
+ ],
+ "Q03": [
+  {
+   "run": 0,
+   "verdict": "실패",
+   "items": {
+    "F1": [
+     "pass",
+     null
+    ],
+    "F2": [
+     "pass",
+     null
+    ],
+    "F3": [
+     "warn",
+     "fatal"
+    ],
+    "R1": [
+     "pass",
+     null
+    ],
+    "R2": [
+     "pass",
+     null
+    ],
+    "N1": [
+     "pass",
+     null
+    ],
+    "N2": [
+     "pass",
+     null
+    ],
+    "N3": [
+     "pass",
+     null
+    ]
+   },
+   "new_tokens": 0
+  },
+  {
+   "run": 1,
+   "verdict": "실패",
+   "items": {
+    "F1": [
+     "pass",
+     null
+    ],
+    "F2": [
+     "pass",
+     null
+    ],
+    "F3": [
+     "warn",
+     "fatal"
+    ],
+    "R1": [
+     "pass",
+     null
+    ],
+    "R2": [
+     "pass",
+     null
+    ],
+    "N1": [
+     "pass",
+     null
+    ],
+    "N2": [
+     "pass",
+     null
+    ],
+    "N3": [
+     "pass",
+     null
+    ]
+   },
+   "new_tokens": 0
+  },
+  {
+   "run": 2,
+   "verdict": "실패",
+   "items": {
+    "F1": [
+     "pass",
+     null
+    ],
+    "F2": [
+     "pass",
+     null
+    ],
+    "F3": [
+     "warn",
+     "fatal"
+    ],
+    "R1": [
+     "pass",
+     null
+    ],
+    "R2": [
+     "pass",
+     null
+    ],
+    "N1": [
+     "pass",
+     null
+    ],
+    "N2": [
+     "pass",
+     null
+    ],
+    "N3": [
+     "pass",
+     null
+    ]
+   },
+   "new_tokens": 0
+  }
+ ],
+ "Q04": [
+  {
+   "run": 0,
+   "verdict": "실패",
+   "items": {
+    "F1": [
+     "pass",
+     null
+    ],
+    "F2": [
+     "pass",
+     null
+    ],
+    "F3": [
+     "warn",
+     "fatal"
+    ],
+    "R1": [
+     "pass",
+     null
+    ],
+    "R2": [
+     "pass",
+     null
+    ],
+    "N1": [
+     "pass",
+     null
+    ],
+    "N2": [
+     "pass",
+     null
+    ],
+    "N3": [
+     "pass",
+     null
+    ]
+   },
+   "new_tokens": 0
+  },
+  {
+   "run": 1,
+   "verdict": "실패",
+   "items": {
+    "F1": [
+     "pass",
+     null
+    ],
+    "F2": [
+     "pass",
+     null
+    ],
+    "F3": [
+     "warn",
+     "fatal"
+    ],
+    "R1": [
+     "pass",
+     null
+    ],
+    "R2": [
+     "pass",
+     null
+    ],
+    "N1": [
+     "pass",
+     null
+    ],
+    "N2": [
+     "pass",
+     null
+    ],
+    "N3": [
+     "pass",
+     null
+    ]
+   },
+   "new_tokens": 0
+  },
+  {
+   "run": 2,
+   "verdict": "실패",
+   "items": {
+    "F1": [
+     "pass",
+     null
+    ],
+    "F2": [
+     "pass",
+     null
+    ],
+    "F3": [
+     "warn",
+     "fatal"
+    ],
+    "R1": [
+     "pass",
+     null
+    ],
+    "R2": [
+     "pass",
+     null
+    ],
+    "N1": [
+     "pass",
+     null
+    ],
+    "N2": [
+     "pass",
+     null
+    ],
+    "N3": [
+     "pass",
+     null
+    ]
+   },
+   "new_tokens": 0
+  }
+ ],
+ "Q05": [
+  {
+   "run": 0,
+   "verdict": "통과",
+   "items": {
+    "F1": [
+     "pass",
+     null
+    ],
+    "F2": [
+     "pass",
+     null
+    ],
+    "F3": [
+     "warn",
+     "minor"
+    ],
+    "R1": [
+     "pass",
+     null
+    ],
+    "R2": [
+     "pass",
+     null
+    ],
+    "N1": [
+     "pass",
+     null
+    ],
+    "N2": [
+     "pass",
+     null
+    ],
+    "N3": [
+     "pass",
+     null
+    ]
+   },
+   "new_tokens": 0
+  },
+  {
+   "run": 1,
+   "verdict": "통과",
+   "items": {
+    "F1": [
+     "pass",
+     null
+    ],
+    "F2": [
+     "pass",
+     null
+    ],
+    "F3": [
+     "warn",
+     "minor"
+    ],
+    "R1": [
+     "pass",
+     null
+    ],
+    "R2": [
+     "pass",
+     null
+    ],
+    "N1": [
+     "pass",
+     null
+    ],
+    "N2": [
+     "pass",
+     null
+    ],
+    "N3": [
+     "pass",
+     null
+    ]
+   },
+   "new_tokens": 0
+  },
+  {
+   "run": 2,
+   "verdict": "통과",
+   "items": {
+    "F1": [
+     "pass",
+     null
+    ],
+    "F2": [
+     "pass",
+     null
+    ],
+    "F3": [
+     "warn",
+     "minor"
+    ],
+    "R1": [
+     "pass",
+     null
+    ],
+    "R2": [
+     "pass",
+     null
+    ],
+    "N1": [
+     "pass",
+     null
+    ],
+    "N2": [
+     "pass",
+     null
+    ],
+    "N3": [
+     "pass",
+     null
+    ]
+   },
+   "new_tokens": 0
+  }
+ ],
+ "Q06": [
+  {
+   "run": 0,
+   "verdict": "실패",
+   "items": {
+    "F1": [
+     "pass",
+     null
+    ],
+    "F2": [
+     "pass",
+     null
+    ],
+    "F3": [
+     "warn",
+     "fatal"
+    ],
+    "R1": [
+     "warn",
+     "fatal"
+    ],
+    "R2": [
+     "pass",
+     null
+    ],
+    "N1": [
+     "pass",
+     null
+    ],
+    "N2": [
+     "pass",
+     null
+    ],
+    "N3": [
+     "pass",
+     null
+    ]
+   },
+   "new_tokens": 0
+  },
+  {
+   "run": 1,
+   "verdict": "실패",
+   "items": {
+    "F1": [
+     "pass",
+     null
+    ],
+    "F2": [
+     "pass",
+     null
+    ],
+    "F3": [
+     "warn",
+     "fatal"
+    ],
+    "R1": [
+     "warn",
+     "fatal"
+    ],
+    "R2": [
+     "pass",
+     null
+    ],
+    "N1": [
+     "pass",
+     null
+    ],
+    "N2": [
+     "pass",
+     null
+    ],
+    "N3": [
+     "pass",
+     null
+    ]
+   },
+   "new_tokens": 0
+  },
+  {
+   "run": 2,
+   "verdict": "실패",
+   "items": {
+    "F1": [
+     "pass",
+     null
+    ],
+    "F2": [
+     "pass",
+     null
+    ],
+    "F3": [
+     "warn",
+     "fatal"
+    ],
+    "R1": [
+     "warn",
+     "fatal"
+    ],
+    "R2": [
+     "pass",
+     null
+    ],
+    "N1": [
+     "pass",
+     null
+    ],
+    "N2": [
+     "pass",
+     null
+    ],
+    "N3": [
+     "pass",
+     null
+    ]
+   },
+   "new_tokens": 0
+  }
+ ],
+ "Q07": [
+  {
+   "run": 0,
+   "verdict": "실패",
+   "items": {
+    "F1": [
+     "pass",
+     null
+    ],
+    "F2": [
+     "pass",
+     null
+    ],
+    "F3": [
+     "warn",
+     "fatal"
+    ],
+    "R1": [
+     "pass",
+     null
+    ],
+    "R2": [
+     "pass",
+     null
+    ],
+    "N1": [
+     "pass",
+     null
+    ],
+    "N2": [
+     "pass",
+     null
+    ],
+    "N3": [
+     "pass",
+     null
+    ]
+   },
+   "new_tokens": 0
+  },
+  {
+   "run": 1,
+   "verdict": "실패",
+   "items": {
+    "F1": [
+     "pass",
+     null
+    ],
+    "F2": [
+     "pass",
+     null
+    ],
+    "F3": [
+     "warn",
+     "fatal"
+    ],
+    "R1": [
+     "pass",
+     null
+    ],
+    "R2": [
+     "pass",
+     null
+    ],
+    "N1": [
+     "pass",
+     null
+    ],
+    "N2": [
+     "pass",
+     null
+    ],
+    "N3": [
+     "pass",
+     null
+    ]
+   },
+   "new_tokens": 0
+  },
+  {
+   "run": 2,
+   "verdict": "실패",
+   "items": {
+    "F1": [
+     "pass",
+     null
+    ],
+    "F2": [
+     "pass",
+     null
+    ],
+    "F3": [
+     "warn",
+     "fatal"
+    ],
+    "R1": [
+     "pass",
+     null
+    ],
+    "R2": [
+     "pass",
+     null
+    ],
+    "N1": [
+     "pass",
+     null
+    ],
+    "N2": [
+     "pass",
+     null
+    ],
+    "N3": [
+     "pass",
+     null
+    ]
+   },
+   "new_tokens": 0
+  }
+ ],
+ "Q08": [
+  {
+   "run": 0,
+   "verdict": "통과",
+   "items": {
+    "F1": [
+     "pass",
+     null
+    ],
+    "F2": [
+     "pass",
+     null
+    ],
+    "F3": [
+     "pass",
+     null
+    ],
+    "R1": [
+     "pass",
+     null
+    ],
+    "R2": [
+     "pass",
+     null
+    ],
+    "N1": [
+     "pass",
+     null
+    ],
+    "N2": [
+     "pass",
+     null
+    ],
+    "N3": [
+     "pass",
+     null
+    ]
+   },
+   "new_tokens": 0
+  },
+  {
+   "run": 1,
+   "verdict": "통과",
+   "items": {
+    "F1": [
+     "pass",
+     null
+    ],
+    "F2": [
+     "pass",
+     null
+    ],
+    "F3": [
+     "pass",
+     null
+    ],
+    "R1": [
+     "pass",
+     null
+    ],
+    "R2": [
+     "pass",
+     null
+    ],
+    "N1": [
+     "pass",
+     null
+    ],
+    "N2": [
+     "pass",
+     null
+    ],
+    "N3": [
+     "pass",
+     null
+    ]
+   },
+   "new_tokens": 0
+  },
+  {
+   "run": 2,
+   "verdict": "통과",
+   "items": {
+    "F1": [
+     "pass",
+     null
+    ],
+    "F2": [
+     "pass",
+     null
+    ],
+    "F3": [
+     "pass",
+     null
+    ],
+    "R1": [
+     "pass",
+     null
+    ],
+    "R2": [
+     "pass",
+     null
+    ],
+    "N1": [
+     "pass",
+     null
+    ],
+    "N2": [
+     "pass",
+     null
+    ],
+    "N3": [
+     "pass",
+     null
+    ]
+   },
+   "new_tokens": 0
+  }
+ ]
+}

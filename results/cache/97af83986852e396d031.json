@@ -1,0 +1,42 @@
+{
+ "R1": {
+  "flag": true,
+  "evidence": [
+   "그늘막은 폭염 피해를 줄여 줍니다."
+  ],
+  "reason": "사고·재난·피해 감소는 건강과 이어질 수 있으나 몸·질병에 대한 직접 효과인지 불분명한 경계 사례",
+  "confidence": "low",
+  "fatal_candidate": false
+ },
+ "R2": {
+  "flag": false,
+  "evidence": [],
+  "reason": "",
+  "confidence": "high"
+ },
+ "N1": {
+  "flag": false,
+  "evidence": [],
+  "reason": "",
+  "confidence": "high"
+ },
+ "N2": {
+  "flag": false,
+  "evidence": [],
+  "reason": "",
+  "confidence": "high"
+ },
+ "N3": {
+  "flag": false,
+  "evidence": [],
+  "reason": "",
+  "confidence": "high"
+ },
+ "H1": {
+  "present": true,
+  "evidence": [
+   "구는 올해 안에 공원 두 곳에 그늘막을 설치할 계획이에요."
+  ],
+  "reason": "첫 문장에 수치(두 곳) 언급"
+ }
+}

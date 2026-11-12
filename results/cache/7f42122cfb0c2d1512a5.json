@@ -1,0 +1,33 @@
+{
+ "F1": {
+  "flag": true,
+  "evidence": [
+   "노선 개편으로 출근 시간 배차 간격이 줄어듭니다."
+  ],
+  "source_quote": [
+   "시는 노선 개편으로 출근 시간 배차 간격이 줄어들 수 있다고 전망했다.",
+   "다만 운전기사 부족 때문에 효과가 제한될 수 있다고 덧붙였다."
+  ],
+  "reason": "원문의 전망·유보(줄어들 수 있다, 효과가 제한될 수 있다)가 사라지고 확정 표현으로 바뀜",
+  "confidence": "high"
+ },
+ "F2": {
+  "flag": true,
+  "evidence": [
+   "노선 개편으로 출근 시간 배차 간격이 줄어듭니다."
+  ],
+  "source_quote": [
+   "시는 노선 개편으로 출근 시간 배차 간격이 줄어들 수 있다고 전망했다."
+  ],
+  "reason": "시의 전망으로 소개된 내용을 대본이 출처 없이 사실처럼 서술함",
+  "confidence": "high"
+ },
+ "F3": {
+  "flag": false,
+  "evidence": [],
+  "source_quote": [],
+  "reason": "",
+  "confidence": "high",
+  "fatal_candidate": false
+ }
+}

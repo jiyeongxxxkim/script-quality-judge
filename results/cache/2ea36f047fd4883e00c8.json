@@ -1,0 +1,40 @@
+{
+ "R1": {
+  "flag": false,
+  "evidence": [],
+  "reason": "",
+  "confidence": "high",
+  "fatal_candidate": false
+ },
+ "R2": {
+  "flag": true,
+  "evidence": [
+   "도서관 관장 한 명이 한마디 하자 이전 논란은 완전히 끝났습니다."
+  ],
+  "reason": "한 사람의 발언으로 논란의 종결을 선언함",
+  "confidence": "high"
+ },
+ "N1": {
+  "flag": false,
+  "evidence": [],
+  "reason": "",
+  "confidence": "high"
+ },
+ "N2": {
+  "flag": false,
+  "evidence": [],
+  "reason": "",
+  "confidence": "high"
+ },
+ "N3": {
+  "flag": false,
+  "evidence": [],
+  "reason": "",
+  "confidence": "high"
+ },
+ "H1": {
+  "present": false,
+  "evidence": [],
+  "reason": ""
+ }
+}

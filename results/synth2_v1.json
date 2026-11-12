@@ -1,0 +1,603 @@
+{
+ "N1p1": [
+  {
+   "R1": "pass",
+   "R2": "pass",
+   "N1": "warn",
+   "N2": "pass",
+   "N3": "pass"
+  },
+  {
+   "R1": "pass",
+   "R2": "pass",
+   "N1": "warn",
+   "N2": "pass",
+   "N3": "pass"
+  },
+  {
+   "R1": "pass",
+   "R2": "pass",
+   "N1": "warn",
+   "N2": "pass",
+   "N3": "pass"
+  }
+ ],
+ "N1p2": [
+  {
+   "R1": "pass",
+   "R2": "pass",
+   "N1": "warn",
+   "N2": "pass",
+   "N3": "pass"
+  },
+  {
+   "R1": "pass",
+   "R2": "pass",
+   "N1": "warn",
+   "N2": "pass",
+   "N3": "pass"
+  },
+  {
+   "R1": "pass",
+   "R2": "pass",
+   "N1": "warn",
+   "N2": "pass",
+   "N3": "pass"
+  }
+ ],
+ "N1p3": [
+  {
+   "R1": "pass",
+   "R2": "pass",
+   "N1": "warn",
+   "N2": "pass",
+   "N3": "pass"
+  },
+  {
+   "R1": "pass",
+   "R2": "pass",
+   "N1": "warn",
+   "N2": "pass",
+   "N3": "pass"
+  },
+  {
+   "R1": "pass",
+   "R2": "pass",
+   "N1": "warn",
+   "N2": "pass",
+   "N3": "pass"
+  }
+ ],
+ "N1p4": [
+  {
+   "R1": "pass",
+   "R2": "pass",
+   "N1": "warn",
+   "N2": "pass",
+   "N3": "pass"
+  },
+  {
+   "R1": "pass",
+   "R2": "pass",
+   "N1": "warn",
+   "N2": "pass",
+   "N3": "pass"
+  },
+  {
+   "R1": "pass",
+   "R2": "pass",
+   "N1": "warn",
+   "N2": "pass",
+   "N3": "pass"
+  }
+ ],
+ "N1n1": [
+  {
+   "R1": "pass",
+   "R2": "pass",
+   "N1": "pass",
+   "N2": "pass",
+   "N3": "pass"
+  },
+  {
+   "R1": "pass",
+   "R2": "pass",
+   "N1": "pass",
+   "N2": "pass",
+   "N3": "pass"
+  },
+  {
+   "R1": "pass",
+   "R2": "pass",
+   "N1": "pass",
+   "N2": "pass",
+   "N3": "pass"
+  }
+ ],
+ "N1n2": [
+  {
+   "R1": "pass",
+   "R2": "pass",
+   "N1": "pass",
+   "N2": "pass",
+   "N3": "pass"
+  },
+  {
+   "R1": "pass",
+   "R2": "pass",
+   "N1": "pass",
+   "N2": "pass",
+   "N3": "pass"
+  },
+  {
+   "R1": "pass",
+   "R2": "pass",
+   "N1": "pass",
+   "N2": "pass",
+   "N3": "pass"
+  }
+ ],
+ "N1n3": [
+  {
+   "R1": "pass",
+   "R2": "pass",
+   "N1": "pass",
+   "N2": "pass",
+   "N3": "pass"
+  },
+  {
+   "R1": "pass",
+   "R2": "pass",
+   "N1": "pass",
+   "N2": "pass",
+   "N3": "pass"
+  },
+  {
+   "R1": "pass",
+   "R2": "pass",
+   "N1": "pass",
+   "N2": "pass",
+   "N3": "pass"
+  }
+ ],
+ "N1n4": [
+  {
+   "R1": "pass",
+   "R2": "pass",
+   "N1": "pass",
+   "N2": "pass",
+   "N3": "pass"
+  },
+  {
+   "R1": "pass",
+   "R2": "pass",
+   "N1": "pass",
+   "N2": "pass",
+   "N3": "pass"
+  },
+  {
+   "R1": "pass",
+   "R2": "pass",
+   "N1": "pass",
+   "N2": "pass",
+   "N3": "pass"
+  }
+ ],
+ "C0": [
+  {
+   "R1": "pass",
+   "R2": "pass",
+   "N1": "pass",
+   "N2": "pass",
+   "N3": "pass"
+  },
+  {
+   "R1": "pass",
+   "R2": "pass",
+   "N1": "pass",
+   "N2": "pass",
+   "N3": "pass"
+  },
+  {
+   "R1": "pass",
+   "R2": "pass",
+   "N1": "pass",
+   "N2": "pass",
+   "N3": "pass"
+  }
+ ],
+ "R2d": [
+  {
+   "R1": "pass",
+   "R2": "warn",
+   "N1": "pass",
+   "N2": "pass",
+   "N3": "pass"
+  },
+  {
+   "R1": "pass",
+   "R2": "warn",
+   "N1": "pass",
+   "N2": "pass",
+   "N3": "pass"
+  },
+  {
+   "R1": "pass",
+   "R2": "warn",
+   "N1": "pass",
+   "N2": "pass",
+   "N3": "pass"
+  }
+ ],
+ "N2d": [
+  {
+   "R1": "pass",
+   "R2": "pass",
+   "N1": "pass",
+   "N2": "warn",
+   "N3": "pass"
+  },
+  {
+   "R1": "pass",
+   "R2": "pass",
+   "N1": "pass",
+   "N2": "warn",
+   "N3": "pass"
+  },
+  {
+   "R1": "pass",
+   "R2": "pass",
+   "N1": "pass",
+   "N2": "warn",
+   "N3": "pass"
+  }
+ ],
+ "N3d": [
+  {
+   "R1": "pass",
+   "R2": "pass",
+   "N1": "pass",
+   "N2": "pass",
+   "N3": "warn"
+  },
+  {
+   "R1": "pass",
+   "R2": "pass",
+   "N1": "pass",
+   "N2": "pass",
+   "N3": "warn"
+  },
+  {
+   "R1": "pass",
+   "R2": "pass",
+   "N1": "pass",
+   "N2": "pass",
+   "N3": "warn"
+  }
+ ],
+ "R1b": [
+  {
+   "R1": "warn",
+   "R2": "pass",
+   "N1": "pass",
+   "N2": "pass",
+   "N3": "pass"
+  },
+  {
+   "R1": "warn",
+   "R2": "pass",
+   "N1": "pass",
+   "N2": "pass",
+   "N3": "pass"
+  },
+  {
+   "R1": "warn",
+   "R2": "pass",
+   "N1": "pass",
+   "N2": "pass",
+   "N3": "pass"
+  }
+ ],
+ "R1c": [
+  {
+   "R1": "warn",
+   "R2": "pass",
+   "N1": "pass",
+   "N2": "pass",
+   "N3": "pass"
+  },
+  {
+   "R1": "warn",
+   "R2": "pass",
+   "N1": "pass",
+   "N2": "pass",
+   "N3": "pass"
+  },
+  {
+   "R1": "warn",
+   "R2": "pass",
+   "N1": "pass",
+   "N2": "pass",
+   "N3": "pass"
+  }
+ ],
+ "R1a": [
+  {
+   "R1": "fatal",
+   "R2": "pass",
+   "N1": "pass",
+   "N2": "pass",
+   "N3": "pass"
+  },
+  {
+   "R1": "fatal",
+   "R2": "pass",
+   "N1": "pass",
+   "N2": "pass",
+   "N3": "pass"
+  },
+  {
+   "R1": "fatal",
+   "R2": "pass",
+   "N1": "pass",
+   "N2": "pass",
+   "N3": "pass"
+  }
+ ],
+ "PA0": [
+  {
+   "F1": "pass",
+   "F2": "pass",
+   "F3": "pass",
+   "R1": "pass",
+   "R2": "pass",
+   "N1": "pass",
+   "N2": "pass",
+   "N3": "pass"
+  },
+  {
+   "F1": "pass",
+   "F2": "pass",
+   "F3": "pass",
+   "R1": "pass",
+   "R2": "pass",
+   "N1": "pass",
+   "N2": "pass",
+   "N3": "pass"
+  },
+  {
+   "F1": "pass",
+   "F2": "pass",
+   "F3": "pass",
+   "R1": "pass",
+   "R2": "pass",
+   "N1": "pass",
+   "N2": "pass",
+   "N3": "pass"
+  }
+ ],
+ "PA1": [
+  {
+   "F1": "warn",
+   "F2": "pass",
+   "F3": "pass",
+   "R1": "pass",
+   "R2": "pass",
+   "N1": "pass",
+   "N2": "pass",
+   "N3": "pass"
+  },
+  {
+   "F1": "warn",
+   "F2": "pass",
+   "F3": "pass",
+   "R1": "pass",
+   "R2": "pass",
+   "N1": "pass",
+   "N2": "pass",
+   "N3": "pass"
+  },
+  {
+   "F1": "warn",
+   "F2": "pass",
+   "F3": "pass",
+   "R1": "pass",
+   "R2": "pass",
+   "N1": "pass",
+   "N2": "pass",
+   "N3": "pass"
+  }
+ ],
+ "PA2": [
+  {
+   "F1": "pass",
+   "F2": "warn",
+   "F3": "pass",
+   "R1": "pass",
+   "R2": "pass",
+   "N1": "pass",
+   "N2": "pass",
+   "N3": "pass"
+  },
+  {
+   "F1": "pass",
+   "F2": "warn",
+   "F3": "pass",
+   "R1": "pass",
+   "R2": "pass",
+   "N1": "pass",
+   "N2": "pass",
+   "N3": "pass"
+  },
+  {
+   "F1": "pass",
+   "F2": "warn",
+   "F3": "pass",
+   "R1": "pass",
+   "R2": "pass",
+   "N1": "pass",
+   "N2": "pass",
+   "N3": "pass"
+  }
+ ],
+ "PB0": [
+  {
+   "F1": "pass",
+   "F2": "pass",
+   "F3": "pass",
+   "R1": "pass",
+   "R2": "pass",
+   "N1": "pass",
+   "N2": "pass",
+   "N3": "pass"
+  },
+  {
+   "F1": "pass",
+   "F2": "pass",
+   "F3": "pass",
+   "R1": "pass",
+   "R2": "pass",
+   "N1": "pass",
+   "N2": "pass",
+   "N3": "pass"
+  },
+  {
+   "F1": "pass",
+   "F2": "pass",
+   "F3": "pass",
+   "R1": "pass",
+   "R2": "pass",
+   "N1": "pass",
+   "N2": "pass",
+   "N3": "pass"
+  }
+ ],
+ "PB1": [
+  {
+   "F1": "warn",
+   "F2": "pass",
+   "F3": "pass",
+   "R1": "pass",
+   "R2": "pass",
+   "N1": "pass",
+   "N2": "pass",
+   "N3": "pass"
+  },
+  {
+   "F1": "warn",
+   "F2": "pass",
+   "F3": "pass",
+   "R1": "pass",
+   "R2": "pass",
+   "N1": "pass",
+   "N2": "pass",
+   "N3": "pass"
+  },
+  {
+   "F1": "warn",
+   "F2": "pass",
+   "F3": "pass",
+   "R1": "pass",
+   "R2": "pass",
+   "N1": "pass",
+   "N2": "pass",
+   "N3": "pass"
+  }
+ ],
+ "PB2": [
+  {
+   "F1": "warn",
+   "F2": "warn",
+   "F3": "pass",
+   "R1": "fatal",
+   "R2": "pass",
+   "N1": "pass",
+   "N2": "pass",
+   "N3": "pass"
+  },
+  {
+   "F1": "pass",
+   "F2": "warn",
+   "F3": "pass",
+   "R1": "fatal",
+   "R2": "pass",
+   "N1": "pass",
+   "N2": "pass",
+   "N3": "pass"
+  },
+  {
+   "F1": "pass",
+   "F2": "warn",
+   "F3": "pass",
+   "R1": "fatal",
+   "R2": "pass",
+   "N1": "pass",
+   "N2": "pass",
+   "N3": "pass"
+  }
+ ],
+ "PC0": [
+  {
+   "F1": "pass",
+   "F2": "pass",
+   "F3": "pass",
+   "R1": "pass",
+   "R2": "pass",
+   "N1": "pass",
+   "N2": "pass",
+   "N3": "pass"
+  },
+  {
+   "F1": "pass",
+   "F2": "pass",
+   "F3": "pass",
+   "R1": "pass",
+   "R2": "pass",
+   "N1": "pass",
+   "N2": "pass",
+   "N3": "pass"
+  },
+  {
+   "F1": "pass",
+   "F2": "pass",
+   "F3": "pass",
+   "R1": "pass",
+   "R2": "pass",
+   "N1": "pass",
+   "N2": "pass",
+   "N3": "pass"
+  }
+ ],
+ "PC1": [
+  {
+   "F1": "warn",
+   "F2": "warn",
+   "F3": "pass",
+   "R1": "pass",
+   "R2": "pass",
+   "N1": "pass",
+   "N2": "pass",
+   "N3": "pass"
+  },
+  {
+   "F1": "warn",
+   "F2": "warn",
+   "F3": "pass",
+   "R1": "pass",
+   "R2": "pass",
+   "N1": "pass",
+   "N2": "pass",
+   "N3": "pass"
+  },
+  {
+   "F1": "warn",
+   "F2": "warn",
+   "F3": "pass",
+   "R1": "pass",
+   "R2": "pass",
+   "N1": "pass",
+   "N2": "pass",
+   "N3": "pass"
+  }
+ ]
+}

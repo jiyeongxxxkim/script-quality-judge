@@ -1,0 +1,40 @@
+{
+ "R1": {
+  "flag": true,
+  "evidence": [
+   "이용자 만족도 98%를 보장합니다."
+  ],
+  "reason": "보증·만족도 수치를 출처 없이 사실처럼 제시함",
+  "confidence": "high",
+  "fatal_candidate": false
+ },
+ "R2": {
+  "flag": false,
+  "evidence": [],
+  "reason": "",
+  "confidence": "high"
+ },
+ "N1": {
+  "flag": false,
+  "evidence": [],
+  "reason": "",
+  "confidence": "high"
+ },
+ "N2": {
+  "flag": false,
+  "evidence": [],
+  "reason": "",
+  "confidence": "high"
+ },
+ "N3": {
+  "flag": false,
+  "evidence": [],
+  "reason": "",
+  "confidence": "high"
+ },
+ "H1": {
+  "present": false,
+  "evidence": [],
+  "reason": ""
+ }
+}

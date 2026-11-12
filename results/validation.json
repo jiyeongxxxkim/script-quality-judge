@@ -1,0 +1,258 @@
+{
+ "\nL01\n": {
+  "label": "통과",
+  "fatal_label": "아니오",
+  "pred": [
+   "통과",
+   "통과",
+   "통과"
+  ],
+  "ok": true,
+  "flags": {},
+  "low": [],
+  "m1": 24.7
+ },
+ "\nL02\n": {
+  "label": "통과",
+  "fatal_label": "아니오",
+  "pred": [
+   "통과",
+   "통과",
+   "보류"
+  ],
+  "ok": true,
+  "flags": {
+   "M4": "minor"
+  },
+  "low": [],
+  "m1": 27.9
+ },
+ "\nL04\n": {
+  "label": "보류",
+  "fatal_label": "아니오",
+  "pred": [
+   "통과",
+   "통과",
+   "보류"
+  ],
+  "ok": false,
+  "flags": {
+   "F1": "minor"
+  },
+  "low": [],
+  "m1": 26.2
+ },
+ "\nL03\n": {
+  "label": "통과",
+  "fatal_label": "아니오",
+  "pred": [
+   "통과",
+   "통과",
+   "통과"
+  ],
+  "ok": true,
+  "flags": {
+   "R2": "minor"
+  },
+  "low": [],
+  "m1": 31.1
+ },
+ "\nL05\n": {
+  "label": "보류",
+  "fatal_label": "아니오",
+  "pred": [
+   "보류",
+   "보류",
+   "보류"
+  ],
+  "ok": true,
+  "flags": {
+   "M4": "minor",
+   "N1": "minor"
+  },
+  "low": [],
+  "m1": 29.9
+ },
+ "\nL06\n": {
+  "label": "보류",
+  "fatal_label": "아니오",
+  "pred": [
+   "통과",
+   "통과",
+   "통과"
+  ],
+  "ok": false,
+  "flags": {
+   "F1": "minor"
+  },
+  "low": [],
+  "m1": 39.3
+ },
+ "\nL07\n": {
+  "label": "통과",
+  "fatal_label": "아니오",
+  "pred": [
+   "통과",
+   "통과",
+   "통과"
+  ],
+  "ok": true,
+  "flags": {},
+  "low": [],
+  "m1": 34.8
+ },
+ "\nL08\n": {
+  "label": "보류",
+  "fatal_label": "아니오",
+  "pred": [
+   "보류",
+   "보류",
+   "보류"
+  ],
+  "ok": true,
+  "flags": {
+   "M1": "minor",
+   "R2": "minor"
+  },
+  "low": [],
+  "m1": 49.3
+ },
+ "\nL09\n": {
+  "label": "통과",
+  "fatal_label": "아니오",
+  "pred": [
+   "통과",
+   "통과",
+   "통과"
+  ],
+  "ok": true,
+  "flags": {},
+  "low": [],
+  "m1": 27.0
+ },
+ "\nL10\n": {
+  "label": "실패",
+  "fatal_label": "아니오",
+  "pred": [
+   "보류",
+   "보류",
+   "보류"
+  ],
+  "ok": false,
+  "flags": {
+   "N1": "minor",
+   "N2": "minor"
+  },
+  "low": [],
+  "m1": 32.5
+ },
+ "\nL11\n": {
+  "label": "보류",
+  "fatal_label": "아니오",
+  "pred": [
+   "실패",
+   "실패",
+   "실패"
+  ],
+  "ok": false,
+  "flags": {
+   "M1": "fatal",
+   "R1": "minor",
+   "N3": "minor"
+  },
+  "low": [
+   "R1",
+   "N3"
+  ],
+  "m1": 62.7
+ },
+ "\nL14\n": {
+  "label": "보류",
+  "fatal_label": "아니오",
+  "pred": [
+   "보류",
+   "보류",
+   "보류"
+  ],
+  "ok": true,
+  "flags": {
+   "M3": "minor",
+   "F1": "minor"
+  },
+  "low": [],
+  "m1": 38.5
+ },
+ "\nL13\n": {
+  "label": "실패",
+  "fatal_label": "예",
+  "pred": [
+   "보류",
+   "보류",
+   "보류"
+  ],
+  "ok": false,
+  "flags": {
+   "F3": "minor",
+   "R1": "minor"
+  },
+  "low": [],
+  "m1": 27.5
+ },
+ "\nL12\n": {
+  "label": "통과",
+  "fatal_label": "아니오",
+  "pred": [
+   "통과",
+   "통과",
+   "통과"
+  ],
+  "ok": true,
+  "flags": {},
+  "low": [],
+  "m1": 29.9
+ },
+ "\nL15\n": {
+  "label": "통과",
+  "fatal_label": "아니오",
+  "pred": [
+   "통과",
+   "통과",
+   "보류"
+  ],
+  "ok": true,
+  "flags": {},
+  "low": [],
+  "m1": 35.1
+ },
+ "\nL17\n": {
+  "label": "보류",
+  "fatal_label": "아니오",
+  "pred": [
+   "통과",
+   "통과",
+   "통과"
+  ],
+  "ok": false,
+  "flags": {
+   "M1": "minor"
+  },
+  "low": [],
+  "m1": 51.6
+ },
+ "\nL16\n": {
+  "label": "실패",
+  "fatal_label": "아니오",
+  "pred": [
+   "실패",
+   "실패",
+   "실패"
+  ],
+  "ok": true,
+  "flags": {
+   "M1": "fatal",
+   "N3": "minor"
+  },
+  "low": [],
+  "m1": 79.5
+ }
+}

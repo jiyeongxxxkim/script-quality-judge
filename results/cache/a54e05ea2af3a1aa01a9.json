@@ -1,0 +1,43 @@
+{
+ "R1": {
+  "flag": true,
+  "evidence": [
+   "그늘막은 폭염 피해를 줄여 줍니다."
+  ],
+  "reason": "사고·재난·피해 감소 주장은 건강과 이어질 수 있으나 몸·질병에 대한 직접 효과인지 불분명한 경계 사례이며, 출처 없이 사실처럼 서술됨",
+  "confidence": "low",
+  "fatal_candidate": false
+ },
+ "R2": {
+  "flag": false,
+  "evidence": [],
+  "reason": "",
+  "confidence": "high"
+ },
+ "N1": {
+  "flag": false,
+  "evidence": [],
+  "reason": "",
+  "confidence": "high"
+ },
+ "N2": {
+  "flag": true,
+  "evidence": [
+   "이용 시간은 평일 아홉 시부터 저녁 여덟 시까지입니다.",
+   "그늘막은 폭염 피해를 줄여 줍니다."
+  ],
+  "reason": "도서관 안내에서 갑자기 그늘막 효과로 주제가 전환되어 문장 간 흐름이 단절됨",
+  "confidence": "high"
+ },
+ "N3": {
+  "flag": false,
+  "evidence": [],
+  "reason": "",
+  "confidence": "high"
+ },
+ "H1": {
+  "present": false,
+  "evidence": [],
+  "reason": ""
+ }
+}

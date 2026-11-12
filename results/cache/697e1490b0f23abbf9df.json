@@ -1,0 +1,44 @@
+{
+ "R1": {
+  "flag": false,
+  "evidence": [],
+  "reason": "",
+  "confidence": "high",
+  "fatal_candidate": false
+ },
+ "R2": {
+  "flag": false,
+  "evidence": [],
+  "reason": "",
+  "confidence": "high"
+ },
+ "N1": {
+  "flag": false,
+  "evidence": [],
+  "reason": "",
+  "confidence": "high"
+ },
+ "N2": {
+  "flag": true,
+  "evidence": [
+   "이 사진 정리 앱은 폴더를 직접 만들 필요가 없어서 편하다는 후기가 많아요.",
+   "출시 첫 달에만 내려받은 사람이 12만 명을 넘었다고 합니다.",
+   "다음 달부터 가정용 전기요금이 킬로와트시당 5원 오른다는 소식이 전해졌어요."
+  ],
+  "reason": "전기요금 인상 내용 중간에 사진 정리 앱 홍보성 문장이 갑자기 삽입되고, 이어서 동일한 전기요금 인상 문장이 반복되어 문맥이 끊김(흐름 단절·중복)",
+  "confidence": "high"
+ },
+ "N3": {
+  "flag": false,
+  "evidence": [],
+  "reason": "",
+  "confidence": "high"
+ },
+ "H1": {
+  "present": true,
+  "evidence": [
+   "다음 달부터 가정용 전기요금이 킬로와트시당 5원 오른다는 소식이 전해졌어요."
+  ],
+  "reason": "첫 문장이 수치를 포함함"
+ }
+}

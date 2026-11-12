@@ -1,0 +1,40 @@
+{
+ "R1": {
+  "flag": true,
+  "evidence": [
+   "매일 마시면 콜레스테롤이 내려갑니다."
+  ],
+  "reason": "건강 효과(콜레스테롤 감소)를 출처 없이 사실로 단정함",
+  "confidence": "high",
+  "fatal_candidate": true
+ },
+ "R2": {
+  "flag": false,
+  "evidence": [],
+  "reason": "",
+  "confidence": "high"
+ },
+ "N1": {
+  "flag": false,
+  "evidence": [],
+  "reason": "",
+  "confidence": "high"
+ },
+ "N2": {
+  "flag": false,
+  "evidence": [],
+  "reason": "",
+  "confidence": "high"
+ },
+ "N3": {
+  "flag": false,
+  "evidence": [],
+  "reason": "",
+  "confidence": "high"
+ },
+ "H1": {
+  "present": false,
+  "evidence": [],
+  "reason": ""
+ }
+}

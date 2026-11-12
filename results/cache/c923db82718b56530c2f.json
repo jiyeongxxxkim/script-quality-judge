@@ -1,0 +1,32 @@
+{
+ "F1": {
+  "flag": true,
+  "evidence": [
+   "이번 인상은 소비를 위축시킵니다."
+  ],
+  "source_quote": [
+   "전문가들은 이번 인상이 소비를 위축시킬 수 있다고 내다봤다."
+  ],
+  "reason": "원문의 전문가 전망과 가능성 표현('위축시킬 수 있다')이 대본에서 확정 서술로 바뀜",
+  "confidence": "high"
+ },
+ "F2": {
+  "flag": true,
+  "evidence": [
+   "이번 인상은 소비를 위축시킵니다."
+  ],
+  "source_quote": [
+   "전문가들은 이번 인상이 소비를 위축시킬 수 있다고 내다봤다."
+  ],
+  "reason": "전문가들의 전망이 출처 없이 일반 사실처럼 서술됨",
+  "confidence": "high"
+ },
+ "F3": {
+  "flag": false,
+  "evidence": [],
+  "source_quote": [],
+  "reason": "",
+  "confidence": "high",
+  "fatal_candidate": false
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "F1": {
+  "flag": false,
+  "evidence": [],
+  "source_quote": [],
+  "reason": "",
+  "confidence": "high"
+ },
+ "F2": {
+  "flag": false,
+  "evidence": [],
+  "source_quote": [],
+  "reason": "",
+  "confidence": "high"
+ },
+ "F3": {
+  "flag": true,
+  "evidence": [
+   "이용자가 40% 늘었어요."
+  ],
+  "source_quote": [
+   "시는 올해 자전거도로를 새로 냈다."
+  ],
+  "reason": "원문에 없는 이용자 증가 사실과 40% 수치가 대본에 추가됨",
+  "confidence": "high",
+  "fatal_candidate": true
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "F1": {
+  "flag": true,
+  "evidence": [
+   "이 차를 마시면 혈압이 내려갑니다."
+  ],
+  "source_quote": [
+   "시험에서 일부 참가자의 혈압이 낮아지는 경향이 관찰됐다."
+  ],
+  "reason": "원문의 관찰·일부·경향이라는 유보가 사라지고 대본에서 모두에게 적용되는 확정적·인과적 표현으로 바뀜",
+  "confidence": "high"
+ },
+ "F2": {
+  "flag": false,
+  "evidence": [],
+  "source_quote": [],
+  "reason": "",
+  "confidence": "high"
+ },
+ "F3": {
+  "flag": true,
+  "evidence": [
+   "이 차를 마시면 혈압이 내려갑니다."
+  ],
+  "source_quote": [
+   "시험에서 일부 참가자의 혈압이 낮아지는 경향이 관찰됐다."
+  ],
+  "reason": "원문에 없는 ‘이 차가 혈압을 낮춘다’는 인과적 건강 효과가 추가됨",
+  "confidence": "high",
+  "fatal_candidate": true
+ }
+}

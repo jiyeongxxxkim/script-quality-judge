@@ -1,0 +1,40 @@
+{
+ "R1": {
+  "flag": true,
+  "evidence": [
+   "사용자의 38.%가 정리 기능 때문에 쓴다고 답했습니다."
+  ],
+  "reason": "출처 없이 만족·설문 성격의 구체적 수치가 사실처럼 제시됨",
+  "confidence": "high",
+  "fatal_candidate": false
+ },
+ "R2": {
+  "flag": false,
+  "evidence": [],
+  "reason": "",
+  "confidence": "high"
+ },
+ "N1": {
+  "flag": false,
+  "evidence": [],
+  "reason": "",
+  "confidence": "high"
+ },
+ "N2": {
+  "flag": false,
+  "evidence": [],
+  "reason": "",
+  "confidence": "high"
+ },
+ "N3": {
+  "flag": false,
+  "evidence": [],
+  "reason": "",
+  "confidence": "high"
+ },
+ "H1": {
+  "present": false,
+  "evidence": [],
+  "reason": ""
+ }
+}

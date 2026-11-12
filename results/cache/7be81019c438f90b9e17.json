@@ -1,0 +1,28 @@
+{
+ "F1": {
+  "flag": false,
+  "evidence": [],
+  "source_quote": [],
+  "reason": "",
+  "confidence": "high"
+ },
+ "F2": {
+  "flag": false,
+  "evidence": [],
+  "source_quote": [],
+  "reason": "",
+  "confidence": "high"
+ },
+ "F3": {
+  "flag": true,
+  "evidence": [
+   "월 3,000원을 더 냅니다."
+  ],
+  "source_quote": [
+   "월 2,000원을 더 낸다."
+  ],
+  "reason": "원문의 2,000원이 3,000원으로 바뀜",
+  "confidence": "high",
+  "fatal_candidate": true
+ }
+}
